@@ -17,4 +17,4 @@ Se precisar falar comigo, meu email *rrlopes7@gmail.com*.
 
 Agradeço pela oportunidade de colaborar e estou à disposição para qualquer dúvida ou necessidade.
 
-![GIF aleatorio](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif width="200" height="200)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" height="200">
